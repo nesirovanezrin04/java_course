@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FirstMethodChallenge1/FirstMethodChallenge1.iml" filepath="$PROJECT_DIR$/FirstMethodChallenge1/FirstMethodChallenge1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirstMethodChallenge2/FirstMethodChallenge2.iml" filepath="$PROJECT_DIR$/FirstMethodChallenge2/FirstMethodChallenge2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld1/HelloWorld1.iml" filepath="$PROJECT_DIR$/HelloWorld1/HelloWorld1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld2/HelloWorld2.iml" filepath="$PROJECT_DIR$/HelloWorld2/HelloWorld2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld3/HelloWorld3.iml" filepath="$PROJECT_DIR$/HelloWorld3/HelloWorld3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld4/HelloWorld4.iml" filepath="$PROJECT_DIR$/HelloWorld4/HelloWorld4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld5/HelloWorld5.iml" filepath="$PROJECT_DIR$/HelloWorld5/HelloWorld5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld6/HelloWorld6.iml" filepath="$PROJECT_DIR$/HelloWorld6/HelloWorld6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IfKeywordAndCodeBlocks1/IfKeywordAndCodeBlocks1.iml" filepath="$PROJECT_DIR$/IfKeywordAndCodeBlocks1/IfKeywordAndCodeBlocks1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IfKeywordAndCodeBlocks2/IfKeywordAndCodeBlocks2.iml" filepath="$PROJECT_DIR$/IfKeywordAndCodeBlocks2/IfKeywordAndCodeBlocks2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IfKeywordAndCodeBlocks3/IfKeywordAndCodeBlocks3.iml" filepath="$PROJECT_DIR$/IfKeywordAndCodeBlocks3/IfKeywordAndCodeBlocks3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IfKeywordAndCodeBlocks4/IfKeywordAndCodeBlocks4.iml" filepath="$PROJECT_DIR$/IfKeywordAndCodeBlocks4/IfKeywordAndCodeBlocks4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IfKeywordAndCodeBlocks5/IfKeywordAndCodeBlocks5.iml" filepath="$PROJECT_DIR$/IfKeywordAndCodeBlocks5/IfKeywordAndCodeBlocks5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KeywordsAndExpressions/KeywordsAndExpressions.iml" filepath="$PROJECT_DIR$/KeywordsAndExpressions/KeywordsAndExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodOverloading/MethodOverloading.iml" filepath="$PROJECT_DIR$/MethodOverloading/MethodOverloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OverloadedChallenge/OverloadedChallenge.iml" filepath="$PROJECT_DIR$/OverloadedChallenge/OverloadedChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SecondsAndMinutesChallenge1/SecondsAndMinutesChallenge1.iml" filepath="$PROJECT_DIR$/SecondsAndMinutesChallenge1/SecondsAndMinutesChallenge1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SecondsAndMinutesChallenge2/SecondsAndMinutesChallenge2.iml" filepath="$PROJECT_DIR$/SecondsAndMinutesChallenge2/SecondsAndMinutesChallenge2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StatementsWhiteSpaceAndIndenting/StatementsWhiteSpaceAndIndenting.iml" filepath="$PROJECT_DIR$/StatementsWhiteSpaceAndIndenting/StatementsWhiteSpaceAndIndenting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/udemy java.iml" filepath="$PROJECT_DIR$/.idea/udemy java.iml" />
+    </modules>
+  </component>
+</project>
